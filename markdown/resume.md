@@ -1,4 +1,4 @@
-Maggie Yan
+James Code 
 ============
 
 ----
@@ -13,7 +13,9 @@ Education
 ---------
 
 2018-2021 (expected)
-:   **MBA, Digital Communication and Multimedia**; Westcliff University 
+:   **Phd, Computer Science**; University of
+    Awesome (HomeTown)
+    *Minor: Awesomeology*
 
 
 2007-2010
