@@ -1,4 +1,4 @@
-Johnny Coder
+Maggie Yan
 ============
 
 ----
@@ -12,11 +12,9 @@ Johnny Coder
 Education
 ---------
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+2018-2021 (expected)
+:   **MBA, Digital Communication and Multimedia**; Westcliff University 
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
 
 2007-2010
 :   **BSc, Computer Science and Electrical Engineering**; University of
